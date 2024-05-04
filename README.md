@@ -1,2 +1,1 @@
-# test.github.io
-测试Github静态网页
+* 测试静态网页
